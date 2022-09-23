@@ -1,6 +1,9 @@
 # NLW - eSports (Mobile)
 
+<div style="display: flex; gap: 10px">
 <img src='/assets/nlw-mobile-screenshot.png' alt='nlw mobile screenshot' width='375' height='812'  />
+<img src='/assets/nlw-mobile-screenshot-2.png' alt='nlw mobile screenshot' width='375' height='812'  />
+</div>
 
 Aplicação mobile desenvolvida durante o evento NLW - eSports organizado pela [Rocketseat](https://github.com/Rocketseat). A aplicação tem como objetivo conectar pessoas que jogam o mesmo game e possuem a mesma disponibilidade de horário.
 
